@@ -7,7 +7,7 @@ int main ()
 {
 	string line;
 	while (true){
-		cout << "> ";
+		cout << "SergeIsWaiting>> ";
 		if (getline(cin,line)){
 		reverse_chars(line);
 		reverse_words(line);
