@@ -1,2 +1,2 @@
-scratch repo for testing github a long tiem ago.
+scratch repo for testing github a long time ago.
 =========
